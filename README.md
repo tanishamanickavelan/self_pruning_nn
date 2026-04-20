@@ -4,6 +4,8 @@ A feed-forward neural network that **learns to prune its own weights during trai
 
 Built for the Tredence AI Engineering Internship Case Study.
 
+live link: https://lucent-lily-fde17a.netlify.app/ 
+
 ---
 
 ## How It Works
@@ -95,7 +97,7 @@ This will:
 
 The network achieves ~57% accuracy on CIFAR-10 while pruning up to **99.86%** of its weights — with virtually no accuracy loss across all λ values tested.
 
-See [`REPORT.md`](./REPORT.md) for the full analysis.
+See [report/REPORT.md](./REPORT.md) for the full analysis.
 
 ---
 
