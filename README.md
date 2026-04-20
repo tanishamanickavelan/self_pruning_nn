@@ -4,6 +4,8 @@ A feed-forward neural network that **learns to prune its own weights during trai
 
 Built for the Tredence AI Engineering Internship Case Study.
 
+live link: https://lucent-lily-fde17a.netlify.app/ 
+
 ---
 
 ## How It Works
