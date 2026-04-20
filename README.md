@@ -97,7 +97,7 @@ This will:
 
 The network achieves ~57% accuracy on CIFAR-10 while pruning up to **99.86%** of its weights — with virtually no accuracy loss across all λ values tested.
 
-See [report/REPORT.md](./REPORT.md) for the full analysis.
+See [report/REPORT.md]for the full analysis.
 
 ---
 
