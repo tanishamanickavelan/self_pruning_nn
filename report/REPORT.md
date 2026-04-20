@@ -125,4 +125,4 @@ sparsity = (gates < 1e-2).float().mean().item()
 
 ---
 
-*Generated as part of Tredence AI Engineering Internship 2025 Case Study Submission.*
+
